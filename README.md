@@ -2,7 +2,7 @@
 
 https://ulegend.github.io
 
-I'm Shivam
+I'm Shivam Chaudhary
 
 <!--
 **ulegend/ulegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
