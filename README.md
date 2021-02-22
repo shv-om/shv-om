@@ -1,5 +1,5 @@
 
-![Image] (shivom.jpeg)
+![Image of Yaktocat](https://)
 
 ### Hi there 👋
 
