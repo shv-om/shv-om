@@ -1,6 +1,5 @@
 
-![Shivom] (https://github.com/ulegend/ulegend/blob/main/shivom.jpeg?raw=true)
-
+![Image] (shivom.jpeg)
 
 ### Hi there 👋
 
