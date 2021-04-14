@@ -13,7 +13,7 @@ I'm Shivam
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Hash Functions
+- 🔭 I’m currently working on Algorithms Implementation
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate in OpenSource projects
 - 💬 Ask me about anything maybe I'll answer but I'll learn for sure.
