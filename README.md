@@ -1,5 +1,5 @@
 
-![Image of Yaktocat](shivom.png)
+![Shivom](shivom.png)
 
 ### Hi there 👋
 
