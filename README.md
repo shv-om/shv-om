@@ -1,11 +1,9 @@
 
 ![Shivom](shivom.png)
 
-# Hi there 👋
+# Hi there 👋 I'm Shivam
 
 https://ulegend.github.io
-
-I'm Shivam
 
 <!--
 **ulegend/ulegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
