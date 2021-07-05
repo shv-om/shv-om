@@ -1,7 +1,7 @@
 
 ![Shivom](shivom.png)
 
-### Hi there 👋
+# Hi there 👋
 
 https://ulegend.github.io
 
@@ -16,5 +16,5 @@ I'm Shivam
 - 🔭 I’m currently working on Algorithms Implementation
 - 🌱 I’m currently learning Cyber Security
 - 👯 I’m looking to collaborate in OpenSource projects
-- 💬 Ask me about anything maybe I'll answer but I'll learn for sure.
-- 📫 How to reach me: mail -> iamcs003@gmail.com
+- 💬 Ask me about anything I may not answer everything, but We'll learn together for sure.
+- 📫 How to reach me: mail -> shivamch6197@gmail.com
