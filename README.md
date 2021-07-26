@@ -1,7 +1,7 @@
 
 ![Shivom](shivom.png)
 
-# Hi there 👋 I'm Shivam
+# Hi there 👋 I'm Shivom
 
 https://ulegend.github.io
 
