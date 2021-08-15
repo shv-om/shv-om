@@ -11,8 +11,8 @@ https://ulegend.github.io
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Competitive programming
-- 🌱 I’m currently learning Cyber Security
-- 👯 I’m looking to collaborate in OpenSource projects
+- 🔭 I’m currently working on Competitive programming.
+- 🌱 I’m currently learning Competitive programming and Algorithm Implementation.
+- 👯 I’m looking to collaborate in OpenSource projects.
 - 💬 Ask me about anything I may not answer correctly, but We'll learn together for sure.
 - 📫 How to reach me: mail -> shivamch6197@gmail.com
