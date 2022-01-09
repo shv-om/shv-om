@@ -12,7 +12,7 @@ https://ulegend.github.io
 - 💬 Ask me 
 -->
 
-- 🔭 I’m currently working on Competitive programming.
-- 🌱 I’m currently learning Competitive programming and Algorithm Implementation.
+- 🔭 I’m currently working on Large capacity of Steganography based on Invertible Neural Networks.
+- 🌱 I’m currently learning Machine Learning.
 - 👯 I’m looking to collaborate in OpenSource projects.
 - 📫 How to reach me: mail -> shivamch6197@gmail.com
