@@ -3,7 +3,7 @@
 
 # Hi there 👋 I'm Shivom
 
-https://ulegend.github.io
+https://shv-om.github.io
 
 <!--
 **ulegend/ulegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
