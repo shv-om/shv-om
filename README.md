@@ -13,6 +13,6 @@ https://shv-om.github.io
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on Large capacity of Steganography based on Invertible Neural Networks.
-- 🌱 I’m currently learning Machine Learning.
+- 🔭 I’m currently working on implementing Cryptographic Algorithm.
+- 🌱 I’m currently learning Cryptography and Machine Learning.
 - 👯 I’m looking to collaborate in OpenSource projects.
