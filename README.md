@@ -13,9 +13,9 @@ https://shvom.pythonanywhere.com
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently implementing Cryptographic Algorithm.
-- 🌱 I’m currently focusing on Cryptography and VAPT (Vulnerability Assessments and Penetration Testing).
-- 👯 I’m looking to collaborate in OpenSource projects.
+- 🔭 I’m working on Linux Kernel Rootkits, Command & Control servers, and Reverse shell.
+- 🌱 I’m focusing on brushing my skills in V.A.P.T. (Vulnerability Assessments and Penetration Testing).
+- 👯 I’m looking to collaborate on OpenSource projects.
 
 
 ## 🌐 Socials:
