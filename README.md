@@ -10,12 +10,12 @@ https://shvom.pythonanywhere.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Ask me: ...
-- 📫 How to reach me: ...
 -->
 
-- 🔭 I’m working on Linux Kernel Rootkits, Command & Control servers, and Reverse shell.
-- 🌱 I’m focusing on brushing my skills in V.A.P.T. (Vulnerability Assessments and Penetration Testing).
-- 👯 I’m looking to collaborate on OpenSource projects.
+- 🔭 I’m working as a Security Operations Analyst.
+- 🌱 I’m focusing on brushing my skills in Bug Bounty.
+- 👯 I’m looking to collaborate on OpenSource Security projects.
+- 📫 How to reach me: shivamch6197[at]gmail[dot]com
 
 
 ## 🌐 Socials:
