@@ -1,5 +1,5 @@
 
-![Shivom](background_1.png)
+![Shivom](githubbase.png)
 
 # Hi there 👋 I'm Shivom
 
