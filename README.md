@@ -12,9 +12,9 @@ https://shvom.pythonanywhere.com
 - 💬 Ask me: ...
 -->
 
-- 🔭 I’m working as a Security Operations Analyst.
-- 🌱 I’m focusing on brushing my skills in Bug Bounty.
-- 👯 I’m looking to collaborate on OpenSource Security projects.
+- 🔭 I’m working as a Security Analyst.
+- 🌱 I’m focusing on brushing up my skills in Malware Development and Reversing.
+- 👯 I’m looking to collaborate on open-source security projects.
 - 📫 How to reach me: shivamch6197[at]gmail[dot]com
 
 
